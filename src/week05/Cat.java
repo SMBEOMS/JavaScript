@@ -1,4 +1,4 @@
-package week02;
+package week05;
 
 public class Cat extends Animal{
 	public void sound() {

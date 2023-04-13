@@ -2,6 +2,6 @@ package week05;
 
 public class BadBank {
 	double getInterestRate() { 
-	return 3.0;
+	return 10.0;
 	}
 }
