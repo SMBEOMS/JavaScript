@@ -1,4 +1,4 @@
-package week03;
+package week04;
 import java.util.Scanner;
 public class Lec3Ex2 {
 
