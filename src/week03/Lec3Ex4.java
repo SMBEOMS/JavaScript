@@ -1,6 +1,6 @@
-package week04;
+package week03;
 import java.util.Scanner;
-public class Lec3Ex2 {
+public class Lec3Ex4 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
