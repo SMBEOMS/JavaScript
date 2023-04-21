@@ -1,6 +1,6 @@
-package week03;
+package week04;
 import java.util.Scanner; //스캐너를 import 해준다
-public class StringTest {
+public class StringTest2 {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); 
