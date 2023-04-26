@@ -2,6 +2,8 @@ package week04;
 
 import java.util.Arrays;
 
+import week04_메소드.Math;
+
 public class SortExample {
 
 	public static void main(String[] args) {
